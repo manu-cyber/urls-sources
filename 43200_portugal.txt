@@ -43,3 +43,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cdu.pt/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://sol.iol.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://leiriainformacao.sapo.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://diariodistrito.sapo.pt/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://maisbeiras.sapo.pt/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mundialfm.sapo.pt/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://radiocaria.pt/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://noticiasdeagueda.sapo.pt/
