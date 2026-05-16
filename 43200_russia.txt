@@ -91,3 +91,11 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://kazaki-40.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://cfo.gov.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mfachechnya.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://фондкультурныхинициатив.рф/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kalashnikov.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://online.rusal.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aluminas.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://forum-spb.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://forum-spb.ru/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://unecon.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://en.unecon.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://cn.unecon.ru/
