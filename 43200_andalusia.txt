@@ -1,0 +1,13 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ppandalucia.es/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://andaluciaatulado.ppandalucia.es/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://psoeandalucia.es/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.parlamentodeandalucia.es/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://adelanteandalucia.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://porandalucia.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.iuandalucia.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://andalucia.verdesequo.es/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://100x100unidos.es/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.andaluciaporsi.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://andalucistas.info/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://nacionandaluza.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.conectaandalucia.es/
