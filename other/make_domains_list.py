@@ -112,6 +112,7 @@ if __name__ == '__main__':
         '43200_cyprus.txt',
         '43200_demoscene.txt',
         '43200_denmark.txt',
+        '43200_ethiopia.txt',
         '43200_eu.txt',
         '43200_fragdenstaat_de.txt',
         '43200_georgia.txt',
