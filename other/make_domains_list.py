@@ -100,6 +100,7 @@ if __name__ == '__main__':
         '43200_abkhazia.txt',
         '43200_andalusia.txt',
         '43200_antigua+barbuda.txt',
+        '43200_armenia.txt',
         '43200_australia+oceania.txt',
         '43200_bahamas.txt',
         '43200_bangladesh.txt',
