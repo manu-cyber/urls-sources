@@ -392,3 +392,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://agroparty.org.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nfront.org.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ombk.omr.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pslava.info/News.html
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://most.ks.ua/en/feed/
