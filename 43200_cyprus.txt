@@ -1,0 +1,13 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.parliament.cy/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://akel.org.cy/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://disy.org.cy/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://elamcy.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://almacy.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://democraticparty.org.cy/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.edek.org.cy/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://cyprushunters.com.cy/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://depa.cy/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://voltcyprus.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://dekcyprus.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://cyprusgreens.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.alphanews.live/

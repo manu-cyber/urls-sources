@@ -69,3 +69,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://banhahp.gov.eg
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://nmec.gov.eg/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hcc.gov.mg/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mof.gov.eg/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.tribunalconstitucional.cv/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://sante.gouv.cg/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://sante.gouv.cd/

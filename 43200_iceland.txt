@@ -1,0 +1,14 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://xd.is/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.framsokn.is/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://xs.is/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://pl.xs.is/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://en.xs.is/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://midflokkurinn.is/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://vidreisn.is/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://vg.is/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sosialistaflokkurinn.is/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://piratar.is/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://flokkurfolksins.is/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.xdreykjavik.is/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.vidreisnreykjavik.is/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.framsoknrvk.is/

@@ -253,3 +253,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://verbotengut.at
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.drone-directory.com.ua/search-the-directory/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://calnewport.com/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://blogs.esa.int/rocketscience/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eminem.com/

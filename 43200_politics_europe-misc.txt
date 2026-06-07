@@ -63,3 +63,14 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://svobodny-svet.cz/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.demos-rs.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://bhikf.ba/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://partialibertarianska.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eurcomact.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://izquierdaunida.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.seacabolafiesta.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://pcpe.es/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://izarrevolucion.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.partidoautonomos.es/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://adpd.mt/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://pn.org.mt/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://intmalta.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://partitmomentum.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://voltmalta.org/

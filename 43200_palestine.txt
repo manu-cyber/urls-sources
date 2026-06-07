@@ -28,3 +28,16 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://entrepreneursf
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://info.wafa.ps/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.president.ps/Eng
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.palestinebookawards.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ramzybaroud.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://shehabnews.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ochaopt.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://qudsnen.co/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://pmo.pna.ps/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.amad.com.ps/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://palwatch.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://felesteen.ps/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://badil.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://right2edu.birzeit.edu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mdc.birzeit.edu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://palestina-komitee.nl/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://pal.or.kr/
