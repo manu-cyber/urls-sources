@@ -29,7 +29,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://press.aboutamazon.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://thepaymentsassociation.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://islamische-zeitung.de/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://digitalcourage.de/rss.xml
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.oeffentliche-it.de/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://ataarelief.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://opensearch.org/feed/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://novonordiskfonden.dk/
