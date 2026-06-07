@@ -1,9 +1,7 @@
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://sbab.cw/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ibcjordan.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.oracle.com/news/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://filter.watch/english/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://jungle.world/rss.xml
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.unfuckamericatour.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://superrr.net/en
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://lookintothe.space/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://thoughtforms.life/feed/
@@ -17,7 +15,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://elnetwork.eu/f
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.epochtimes.de/api/rss/etdrss2
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.redsemlac-cuba.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://news.uthscsa.edu/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://algorithmicpattern.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://events.wordpress.org/upcoming-events/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://superhuman.com/press
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://fennougria.ee/feed/
@@ -27,9 +24,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://estudiosdeopinion.iep.org.pe/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.ucs.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://action.freespeechcoalition.com/age-verification-bills/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://nonprofitquarterly.org/feed/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mundohvacr.com/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://uabonline.org/feed/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.bundjugend.de/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://amarantemagazine.sapo.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://infoglobalarg.com/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://heinrich11.wordpress.com/feed/
@@ -59,7 +54,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.palantir.com/careers/open
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://anacao.sapo.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://group.bnpparibas/en/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://ansage.org/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.eporner.com/blog/feed/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.corporatejetinvestor.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://polis180.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.quilter.ai/blog
