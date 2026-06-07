@@ -144,6 +144,7 @@ if __name__ == '__main__':
         '43200_iran.txt',
         '43200_japan.txt',
         '43200_kazakhstan.txt',
+        '43200_kosovo.txt',
         '43200_kurdistan.txt',
         '43200_laos.txt',
         '43200_lebanon.txt',
