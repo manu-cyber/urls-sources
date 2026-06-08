@@ -204,3 +204,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.vicepresident.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://apacmc.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ppda.go.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://zombo.go.ug/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://news.mak.ac.ug/

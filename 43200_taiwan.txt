@@ -32,3 +32,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://english.hakka.gov.tw/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cy.gov.tw/EN/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.yda.gov.tw/en/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.huayuworld.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://newpowerparty.tw/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.th.gov.tw/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://cycc.digital.th.gov.tw/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hcc.gov.tw/
