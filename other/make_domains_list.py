@@ -96,6 +96,7 @@ if __name__ == '__main__':
         '3600_medical_research.txt',
         '3600_news_crypto_sites.txt',
         '3600_others.txt',
+        '3600_ukraine-war-stats.txt',
         '3600_wikidata_Q1331793_media-company.wikidata.txt',
         '43200_abkhazia.txt',
         '43200_andalusia.txt',
@@ -194,6 +195,7 @@ if __name__ == '__main__':
         '86400_indivisible.org_fiftyfifty.one_affiliates.txt',
         '86400_nolympia.txt',
         '86400_others.txt',
+        '86400_ukraine-war-stats.txt',
         '604800_ccc.txt',
         '604800_others.txt'
     ]
