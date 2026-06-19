@@ -3,6 +3,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://jornalconcelhodepalmela.sapo.
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.presidencia.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://partidopopularmonarquico.pt/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://cidadehoje.sapo.pt/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://ominho.pt/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://psdparlamentoeuropeu.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://jornaldeabrantes.sapo.pt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://militante.ps.pt/home
