@@ -29,7 +29,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://press.aboutamazon.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://thepaymentsassociation.org/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://islamische-zeitung.de/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://digitalcourage.de/rss.xml
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://ataarelief.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://opensearch.org/feed/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://novonordiskfonden.dk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://it-cs.io/
@@ -40,7 +39,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.grammarly.com/blog/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://cjgiurgiu.ro/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://ainowinstitute.org/feed
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://feed.epochtimes.com/b5/nimpart.htm/feed
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://xrebellion.at/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://techcommunity.microsoft.com/Events
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://naabpp.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.palantir.com/careers/open-positions/
@@ -110,7 +108,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://zonaroja.com.mx/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://blogs.nvidia.com/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.digitaler-staat.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.rote-flora.de/feed/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.chemtrail.de/feed/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.diarioprensa.com.ar/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.menschenrechte.org/feed/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.nius.de/rss
