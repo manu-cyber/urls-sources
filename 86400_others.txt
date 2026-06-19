@@ -113,7 +113,13 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.menschenre
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.automotivelinux.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://covertactionmagazine.com/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://4vlast-bg.com/feed
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.palantir.com/newsroom/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.palantir.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.palantir.com/newsroom/media/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.palantir.com/newsroom/press-releases/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.palantir.com/blog/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.palantir.com/newsroom/letters/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.palantir.com/newsroom/thought-leadership/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://investors.palantir.com/news
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.antifa-frankfurt.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://antisemitism.org/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://yetkinreport.com/feed/
