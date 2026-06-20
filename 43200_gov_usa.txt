@@ -22,3 +22,7 @@ random=RANDOM;all=1;url=https://sanctionslistservice.ofac.treas.gov/api/Publicat
 random=RANDOM;all=1;url=https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.FF
 random=RANDOM;all=1;url=https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/ENHANCED_XML.xsd
 random=RANDOM;all=1;url=https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN_COMMENTS.FF
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://passports.gov/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://aliens.gov/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://login.gov/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://freedom.gov/

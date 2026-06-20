@@ -99,3 +99,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://forum-spb.ru/en/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://unecon.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://en.unecon.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cn.unecon.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://en.kalashnikovgroup.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kalashnikovgroup.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://new.crimiz.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://crimea24tv.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://krym.er.ru/

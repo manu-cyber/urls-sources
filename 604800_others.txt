@@ -216,6 +216,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://ai-2027.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://blogs.esa.int/exploration/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cepa.or.ug/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://events.dropbox.com/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://xrebellion.at/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://ataarelief.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.arbeitsagentur.de/news
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://terra-drone.net/global/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bermenchek.ru/
@@ -223,6 +225,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bermenchek.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://humanityinaction.org/country/bosnia-herzegovina/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://blogs.esa.int/campaignearth/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.freimaurerorden.de/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.chemtrail.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://demokratische-ki.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://developer.spotify.com/community
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.arxiv.org/
@@ -254,3 +257,14 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.drone-directory.com.ua/se
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://calnewport.com/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://blogs.esa.int/rocketscience/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eminem.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.unfuckamericatour.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://filter.watch/english/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://algorithmicpattern.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mundohvacr.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bundjugend.de/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://ataarelief.org/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.eporner.com/blog/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://sicherheit-ohne-ueberwachung.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://pussyriot.love/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://salvationarmy.org.hk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.warmuseum.ca/

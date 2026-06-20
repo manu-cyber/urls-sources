@@ -136,3 +136,9 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://gsz.gov.by/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://gtk.gov.by/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://guzmo.gov.by/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ignminsk.gov.by/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://iic.gov.by/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://iic.gov.by/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://iic.gov.by/be/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://inst.gtk.gov.by/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ivacevichi.brest-region.gov.by/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ivanovo.brest-region.gov.by/

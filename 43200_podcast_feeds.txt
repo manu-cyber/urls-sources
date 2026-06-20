@@ -77,3 +77,4 @@ random=RANDOM;deep_extract=1;url=https://www.wrint.de/category/zum_thema/feed/
 random=RANDOM;deep_extract=1;url=https://wissenschaftspodcasts.de/rss-blog/
 random=RANDOM;deep_extract=1;url=https://alterwasgeht.podcaster.de/alterwasgeht.rss
 random=RANDOM;deep_extract=1;url=https://feeds.megaphone.fm/IMP2294070354
+random=RANDOM;deep_extract=1;url=https://anchor.fm/s/10c9476b0/podcast/rss

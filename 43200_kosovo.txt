@@ -36,3 +36,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://gjilan.rks-gov.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://novoberde.rks-gov.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://podujeve.rks-gov.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://suhareke.rks-gov.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://oik-ks.org/
