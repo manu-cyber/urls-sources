@@ -10,7 +10,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.shia-news.
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.nationalchickencouncil.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nationalgroundgame.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cin.ba/en/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://elnetwork.eu/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.epochtimes.de/api/rss/etdrss2
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.redsemlac-cuba.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://news.uthscsa.edu/
