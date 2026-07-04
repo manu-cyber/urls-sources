@@ -142,3 +142,8 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://iic.gov.by/be/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://inst.gtk.gov.by/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ivacevichi.brest-region.gov.by/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ivanovo.brest-region.gov.by/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ivat.portal.nalog.gov.by/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://just-grodno.gov.by/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ivyenews.by/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://trudgrodno.gov.by/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://psz.gov.by/

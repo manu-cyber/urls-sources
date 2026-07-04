@@ -104,3 +104,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://kalashnikovgroup.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://new.crimiz.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://crimea24tv.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://krym.er.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://lostarmour.info/news

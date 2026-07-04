@@ -194,6 +194,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://vn.npu.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.vinrayrada.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://data.loda.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dream.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://dream.gov.ua/en
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.gnivan-osvita.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.tulchyn-msk-osvita.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://hda.mod.gov.ua/
@@ -235,6 +236,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.vcult.chegromada.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://aplus.mod.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.mkl-rayrada.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://market-brave1.delta.mil.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://market-brave1.delta.mil.gov.ua/blog/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.osv.stepanivska-gromada.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.volnovaska-rayrada.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://alt.krz-osvita.gov.ua/
@@ -397,3 +399,12 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://kv.darg.gov.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://energoatom.com.ua/en
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://energoatom.com.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://zaporizhzhia.city/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://defensevalley.tech/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://konstantinovka.dn.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://migrants.ua-city.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://joinuarmy.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://joinuarmy.org/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://restartukraine.com.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://docudays.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://neweurope.org.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://neweurope.org.ua/en/
