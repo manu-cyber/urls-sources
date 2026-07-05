@@ -304,3 +304,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://spenden.afd.de
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fabio-de-masi.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cdufraktion-bw.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://gj-sachsen.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://dresden.gj-sachsen.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://zwickau.gj-sachsen.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://gj-mv.de/
