@@ -99,6 +99,7 @@ if __name__ == '__main__':
         '3600_ukraine-war-stats.txt',
         '3600_wikidata_Q1331793_media-company.wikidata.txt',
         '43200_abkhazia.txt',
+        '43200_algeria.txt',
         '43200_andalusia.txt',
         '43200_antigua+barbuda.txt',
         '43200_armenia.txt',
