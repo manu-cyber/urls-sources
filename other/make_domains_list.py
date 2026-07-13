@@ -203,6 +203,8 @@ if __name__ == '__main__':
         '86400_nolympia.txt',
         '86400_others.txt',
         '86400_ukraine-war-stats.txt',
+        '172800_arts+culture.txt',
+        '604800_arts+culture.txt',
         '604800_ccc.txt',
         '604800_others.txt'
     ]
