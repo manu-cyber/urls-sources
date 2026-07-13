@@ -88,7 +88,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://thisisanuprisi
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://jokekaviaar.nl/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cncf.io/blog/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.cadus.org/feed/
-random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://ozma-yeudit.co.il/feed/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.airandspaceforces.com/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://blog.deutsches-museum.de/blog.recent.xml
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://slavonic.org/feed/

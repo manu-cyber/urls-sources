@@ -144,6 +144,7 @@ if __name__ == '__main__':
         '43200_infini_nonprofit-religion.txt',
         '43200_infini_periodical-publishing.txt',
         '43200_infini_politics.txt',
+        '43200_israel.txt',
         '43200_iran.txt',
         '43200_japan.txt',
         '43200_kazakhstan.txt',
