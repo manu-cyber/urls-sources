@@ -1,2 +1,13 @@
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://stj-sy.org/en/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://qasioun-news.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://r-enks.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pdk-s.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ku.r-enks.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://en.yekiti-media.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ara.yekiti-media.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kurdi.yekiti-media.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://revoleftsyria.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://yek-dem.net/ar/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://yek-dem.net/ku/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.alghadalsoury.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kassioun.org/

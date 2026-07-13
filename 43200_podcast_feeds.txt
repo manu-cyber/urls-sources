@@ -81,3 +81,5 @@ random=RANDOM;deep_extract=1;url=https://anchor.fm/s/10c9476b0/podcast/rss
 random=RANDOM;deep_extract=1;url=https://kinkinthechain.com/feed/podcast/
 random=RANDOM;deep_extract=1;url=https://egovernment-podcast.com/feed/aac/
 random=RANDOM;deep_extract=1;url=https://podur.org/feed/podcast/
+random=RANDOM;deep_extract=1;url=https://anchor.fm/s/fe8eba08/podcast/rss
+random=RANDOM;deep_extract=1;url=https://thestanduppod.com/feed.xml

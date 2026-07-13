@@ -408,3 +408,12 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://restartukraine.com.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://docudays.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://neweurope.org.ua/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://neweurope.org.ua/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://spilkuisia.kr.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.slidstvo.info/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://cdvr.org.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://eba.com.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://fczorya.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ondise.minjust.gov.ua/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://inventure.com.ua/en
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://inventure.com.ua/uk
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://inventure.com.ua/?lang=ru

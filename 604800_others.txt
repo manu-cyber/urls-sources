@@ -271,3 +271,9 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.warmuseum.ca/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://centroguerrero.es/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.metal-archives.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://nekoweb.org/news
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.migpolgroup.com/
+random=RANDOM;all=1;url=https://www.commonplace.day/public
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://globaldemocracycoalition.org/news/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://events.sovereigncloudstack.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.helsing.ai/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.moazin.de/

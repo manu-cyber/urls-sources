@@ -307,3 +307,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://gj-sachsen.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dresden.gj-sachsen.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://zwickau.gj-sachsen.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://gj-mv.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://dkp-bayern.de/
