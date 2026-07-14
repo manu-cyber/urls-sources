@@ -757,3 +757,15 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://ilrovescio.info/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mei.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://helsing.ai/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eurolympic.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://europressarabia.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://aceseurope.eu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kallxo.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://totinsights.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://blogs.sw.siemens.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://amaniafrica-et.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://costofwar.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://robotics-institute-germany.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://bhekisisa.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rtx.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://giuliochinappi.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://skyfall-defence.com/

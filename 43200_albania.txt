@@ -7,3 +7,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://kryeministria.al/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://pd.al/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://asp.gov.al/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://psd.al/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kujto.al/
