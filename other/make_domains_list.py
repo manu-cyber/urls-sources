@@ -139,6 +139,7 @@ if __name__ == '__main__':
         '43200_hong-kong.txt',
         '43200_hungary.txt',
         '43200_iceland.txt',
+        '43200_india.txt',
         '43200_infini_culture.txt',
         '43200_infini_education-science.txt',
         '43200_infini_government.txt',
