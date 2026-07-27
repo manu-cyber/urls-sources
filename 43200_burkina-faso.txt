@@ -1,0 +1,17 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://gouvernement.gov.bf/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.presidencedufaso.bf/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://an.bf/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gcob.gov.bf/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.conseil-etat.gov.bf/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://service-public.gov.bf/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.csc.bf/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://anpe.gov.bf/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://police.gov.bf/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://unpolice.gov.bf/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://centif.gov.bf/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.defense.gov.bf/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ces.gov.bf/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.communication.gov.bf/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://concours.gov.bf/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.droits-humains.gov.bf/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://dgi.bf/

@@ -1,0 +1,9 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.jornaltransparencia.st/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://adi-stp.st/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mne.gov.st/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://stp.gov.st/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://presidencia.st/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://gov.st/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://principe.gov.st/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://cipstp.st/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pcd-stp.com/

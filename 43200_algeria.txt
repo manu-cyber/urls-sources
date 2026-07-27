@@ -1,0 +1,16 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://fln.dz/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://hmsalgeria.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://president.hmsalgeria.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://rnd.dz/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://sinedjib.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://algerie-eco.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.horizons.dz/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.horizons.dz/language/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://fj-p.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mfa.gov.dz/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rcd-algerie.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.shihabpresse.dz/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://bladi-info.dz/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://africasport.dz/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eldjazaireldjadida.dz/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://tadamsanews.dz/

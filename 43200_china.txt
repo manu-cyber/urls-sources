@@ -19,3 +19,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.stats.gov.cn/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.chinadaily.com.cn/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cnr.cn/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://chinaplus.cri.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://english.spacechina.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.spacechina.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.casic.com.cn/

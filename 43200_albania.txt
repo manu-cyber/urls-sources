@@ -1,0 +1,10 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.parlament.al/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.shqiperiabehet.al/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://levizjabashke.al/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mundesia.al/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ps.al/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kryeministria.al/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://pd.al/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://asp.gov.al/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://psd.al/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kujto.al/

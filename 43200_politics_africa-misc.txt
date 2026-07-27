@@ -12,3 +12,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.paicv.cv/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mpd.cv/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://paigc.gw/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://awb.co.za/feed/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.alliance-sahel.org/

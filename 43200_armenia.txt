@@ -45,3 +45,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://hetq.am/hy
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://newsarmenia.am/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://iravunk.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://araraddaily.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://aef.am/

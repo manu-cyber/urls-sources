@@ -41,3 +41,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://right2edu.birzeit.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://mdc.birzeit.edu/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://palestina-komitee.nl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://pal.or.kr/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://genocide.live/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://jewishnetworkforpalestine.uk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://corporateoccupation.org/

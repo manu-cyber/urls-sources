@@ -74,3 +74,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://pn.org.mt/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://intmalta.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://partitmomentum.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://voltmalta.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://andrejplenkovic.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://defiendelopublico.es/

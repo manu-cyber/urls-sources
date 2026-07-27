@@ -47,3 +47,13 @@ random=RANDOM;all=1;depth=0;url=https://sbs-group.army/subdivision/svarog?period
 random=RANDOM;all=1;depth=0;url=https://sbs-group.army/subdivision/raid?period=yearly_2026
 random=RANDOM;all=1;depth=0;url=https://sbs-group.army/subdivision/9_susbr?period=yearly_2026
 random=RANDOM;all=1;depth=0;url=https://sbs-group.army/subdivision/cusd_stss?period=yearly_2026
+random=RANDOM;all=1;depth=1;url=https://lostarmour.info/tags/rubicon
+random=RANDOM;all=1;depth=1;url=https://lostarmour.info/tags/vbs
+random=RANDOM;all=1;depth=1;url=https://lostarmour.info/tags/lancet
+random=RANDOM;all=1;depth=1;url=https://lostarmour.info/tags/elka
+random=RANDOM;all=1;depth=1;url=https://lostarmour.info/map
+random=RANDOM;all=1;depth=1;url=https://lostarmour.info/tags/strikes
+random=RANDOM;all=1;depth=0;url=https://lostarmour.info/ukr200
+random=RANDOM;all=1;depth=1;url=https://ukr.warspotting.net/
+random=RANDOM;all=1;depth=0;url=https://ualosses.org/statistics
+random=RANDOM;all=1;depth=1;url=https://www.creamy-caprice.net/
