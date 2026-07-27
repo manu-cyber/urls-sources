@@ -716,7 +716,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://namibiadailyne
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.spaghettimonster.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://rojavainformationcenter.org/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://rumoer.noblogs.org/feed/
-random=RANDOM;all=1;keep_all=1;depth=1;any_domain=1;url=https://red.anthropic.com/2026/mythos-preview/
+random=RANDOM;all=1;keep_all=1;depth=1;any_domain=1;url=https://www.anthropic.com/research/mythos-preview
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://techcommunity.microsoft.com/Blogs
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ai.meta.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://decode.thaipbs.or.th/
