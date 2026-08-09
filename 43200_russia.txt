@@ -380,3 +380,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=http://xn--d1aa2an.xn--p1ai/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dnrsovet.gov.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kaprf.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://pszrf.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://news.gtrklnr.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://vz.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sovsport.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://gazetabaikonur.ru/

@@ -15,3 +15,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.communication.gov.bf/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://concours.gov.bf/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.droits-humains.gov.bf/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://dgi.bf/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://uv.bf/

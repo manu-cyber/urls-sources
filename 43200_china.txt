@@ -22,3 +22,14 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.stats.gov.cn/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://english.spacechina.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.spacechina.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.casic.com.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hzzk.gov.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gz.gov.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.jiangmen.gov.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://jr.sz.gov.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kjj.gz.gov.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://wap.miit.gov.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://jyj.gz.gov.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://dgamr.dg.gov.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hzzk.gov.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://fgw.sz.gov.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zhuhai-hitech.gov.cn/

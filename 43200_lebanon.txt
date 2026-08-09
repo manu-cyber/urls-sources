@@ -40,3 +40,14 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://mpt.gov.lb/
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://lp.gov.lb/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://ghobeiry.gov.lb/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mfa.gov.lb/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://moqawama.org.lb/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.michelmoawad.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.michelmoawad.com/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://taqaddomlb.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://projectsassociation.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://alrayahalwatani.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ahrar.me/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://lnalebanon.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://alhiwar.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://en.kataeb.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://marsad.moqawama.org.lb/
