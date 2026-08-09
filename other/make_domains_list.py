@@ -205,6 +205,7 @@ if __name__ == '__main__':
         '43200_wikidata_Q105044823_publisher.wikidata.txt',
         '43200_websiteregister_rijksoverheid.txt',
         '43200_yemen.txt',
+        '43200_zambia.txt',
         '86400_defense.txt',
         '86400_indivisible.org_fiftyfifty.one_affiliates.txt',
         '86400_nolympia.txt',
