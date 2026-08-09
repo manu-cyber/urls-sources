@@ -1,0 +1,11 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aikido-esslingen.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://stages-aikido.fr/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aikido-zentrum-essen.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://aikikai.de/blogs/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aikido-foederation.de/lehrgaenge/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://pdc.fide.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kenyachessmasala.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://rcc.fide.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://infinitechess.fide.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://soc.fide.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.schach-tegernsee.de/

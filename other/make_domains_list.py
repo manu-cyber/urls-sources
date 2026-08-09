@@ -207,11 +207,13 @@ if __name__ == '__main__':
         '86400_indivisible.org_fiftyfifty.one_affiliates.txt',
         '86400_nolympia.txt',
         '86400_others.txt',
+        '86400_sports.txt',
         '86400_ukraine-war-stats.txt',
         '172800_arts+culture.txt',
         '604800_arts+culture.txt',
         '604800_ccc.txt',
-        '604800_others.txt'
+        '604800_others.txt',
+        '604800_sports.txt'
     ]
     files = sys.argv[1:]
     if len(files) == 0:
