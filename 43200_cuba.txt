@@ -1,0 +1,15 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ciudadholguin.gob.cu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://cubaminrex.cu/es
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://cubaminrex.cu/en
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://cpi.cubaminrex.cu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.redcuba.cu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gacetaoficial.gob.cu/es
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gacetaoficial.gob.cu/en
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.isri.cu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cipi.cu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://nacionyemigracion.cu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.presidencia.gob.cu/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.presidencia.gob.cu/es/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fgr.gob.cu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gacetaoficial.gob.cu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ipscuba.net/
