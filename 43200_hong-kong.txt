@@ -99,3 +99,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.youth.gov.hk/sc
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bayarea.gov.hk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.startmeup.hk/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://amnestyhk.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://sc.isd.gov.hk/

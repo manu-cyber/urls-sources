@@ -21,3 +21,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://konfederacja.pl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://koalicjapolska.com.pl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://klub-lewica.org.pl/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://koalicjaobywatelska.pl/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://pkw.gov.pl/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://rozwoj.plus/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mateuszmorawiecki.pl/

@@ -18,7 +18,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://100r.co/links/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://criticalmedialab.ch/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://hackaday.io/discover
 #REASON=DUPLICATE#random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.culturalsurvival.org/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://aikikai.or.jp/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://berghain.berlin/de/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://networkcultures.org/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://superrr.net/
@@ -37,3 +36,14 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://re-publica.com/de
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.profifoto.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.worldpressphoto.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://sailormoon-official.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.dazeddigital.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://glasstire.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://pisf.pl/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ageofempires.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://hero-magazine.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.coeval-magazine.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://historiaikultura.pl/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ultimae.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kinosiska.si/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fluctuating-images.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.diyphotography.net/

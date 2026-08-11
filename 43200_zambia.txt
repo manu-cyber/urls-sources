@@ -1,0 +1,12 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.parliament.gov.zm/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sh.gov.zm/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zambiaun.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zambiamonitor.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.upndzambia.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://joinbm8.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mihud.gov.zm/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://newzambia.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://saiia.org.za/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.newhopemmd.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.elections.org.zm/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.patrioticfront.org/

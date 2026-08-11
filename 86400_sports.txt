@@ -1,0 +1,14 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.220triathlon.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://aikikai.or.jp/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fcstpauli.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://worldchess.com/news
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ruchess.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ruchess.ru/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fifa.com/en/news
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://events.fide.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://trainers.fide.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://wom.fide.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aikido-bund.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://arbiters.fide.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.chessdom.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://dis.fide.com/

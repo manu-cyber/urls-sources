@@ -115,6 +115,7 @@ if __name__ == '__main__':
         '43200_ccc+hackspaces.txt',
         '43200_china.txt',
         '43200_colombia.txt',
+        '43200_cuba.txt',
         '43200_cyprus.txt',
         '43200_demoscene.txt',
         '43200_denmark.txt',
@@ -122,6 +123,7 @@ if __name__ == '__main__':
         '43200_eu.txt',
         '43200_fragdenstaat_de.txt',
         '43200_georgia.txt',
+        '43200_germany-2026-local-elections.txt',
         '43200_github_GSA_govt-urls.txt',
         '43200_gov2.txt',
         '43200_gov3.txt',
@@ -204,14 +206,18 @@ if __name__ == '__main__':
         '43200_wikidata_Q105044823_publisher.wikidata.txt',
         '43200_websiteregister_rijksoverheid.txt',
         '43200_yemen.txt',
+        '43200_zambia.txt',
+        '86400_defense.txt',
         '86400_indivisible.org_fiftyfifty.one_affiliates.txt',
         '86400_nolympia.txt',
         '86400_others.txt',
+        '86400_sports.txt',
         '86400_ukraine-war-stats.txt',
         '172800_arts+culture.txt',
         '604800_arts+culture.txt',
         '604800_ccc.txt',
-        '604800_others.txt'
+        '604800_others.txt',
+        '604800_sports.txt'
     ]
     files = sys.argv[1:]
     if len(files) == 0:
