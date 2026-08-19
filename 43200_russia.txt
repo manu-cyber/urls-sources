@@ -384,3 +384,15 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://news.gtrklnr.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://vz.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sovsport.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=http://gazetabaikonur.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kurilskiy.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kurilskiy.ru/en
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kurilskiy.ru/jp
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://chistopol.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://drugoros.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://fbk.info/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://vesna.democrat/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://vesna.democrat/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://levsd.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://idel-ural.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://idel-ural.org/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://rosdep.org/
