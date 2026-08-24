@@ -56,7 +56,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.rightscon.org/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.digitaler-staat.online/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://apo33.org/?feed=rss2
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.jugendfuereuropa.de/
-random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.crowdsupply.com/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.ahrexpomexico.com/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://derwaechter.net/feed
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://feeds.feedburner.com/taratainton
@@ -308,3 +307,14 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://audio.moqawama.org.lb/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://landsmannschaft-schlesien.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.karpatendeutsche.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://weichsel-warthe.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://europeanbloodalliance.eu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://zaimka.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.defactoborders.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://kriegsdienstblocker.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sudeten.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://schlesien-bonn.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.asiahouse.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://about.nike.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://freevpnastro.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://federacionanarquistauruguaya.uy/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://vvn-bda-lueneburg.de/

@@ -10,3 +10,9 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://saiia.org.za/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.newhopemmd.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.elections.org.zm/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.patrioticfront.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mim.gov.zm/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mcdss.gov.zm/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mlnr.gov.zm/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mihud.gov.zm/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mofaic.gov.zm/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://citizens-firstzm.org/

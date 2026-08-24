@@ -396,3 +396,7 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://levsd.ru/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://idel-ural.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://idel-ural.org/en/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://rosdep.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://eot.su/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://velikoross.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://rospartya.ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ркрп.рус/

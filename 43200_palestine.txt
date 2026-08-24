@@ -49,3 +49,15 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.alterpresse68.info/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fatehmedia.ps/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://almoqawma.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://alahrar.ps/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ramallah.ps/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://qalqiliamun.ps/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://culture.ramallah.ps/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ramallahcity.ramallah.ps/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://palestinelegal.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://upaconnect.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.map.org.uk/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://samidoun.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://daysofpalestine.ps/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eupac.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://resilientramallah.ramallah.ps/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://wein.ramallah.ps/

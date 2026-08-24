@@ -17,3 +17,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://parliament.gov.ck/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pmoffice.gov.ck/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://cookislandsparty.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://stats.gov.ck/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.ciic.gov.ck/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.airport.gov.ck/
