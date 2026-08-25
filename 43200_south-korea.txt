@@ -1,3 +1,5 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://opendict.korean.go.kr
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.nl.go.kr
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://en.president.go.kr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://theminjoo.kr/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://seoul.theminjoo.kr/
