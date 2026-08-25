@@ -47,3 +47,16 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://ultimae.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kinosiska.si/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fluctuating-images.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.diyphotography.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.sansebastianfestival.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://festivaldemalaga.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://igormiranda.com.br/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://izvansvakekontrole.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://sitgesfilmfestival.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://annabafilmfestival.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://artfair.co.nz/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.flightsimulator.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://vmagazine.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://erickimphotography.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kulturajih.cz/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kaltblut-magazine.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://soultracks.com/

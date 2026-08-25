@@ -33,3 +33,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://dgamr.dg.gov.cn/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.hzzk.gov.cn/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://fgw.sz.gov.cn/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.zhuhai-hitech.gov.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://tzb.jiangmen.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.cac.gov.cn/
+random=RANDOM;all=1;keep_all=1;depth=1;url=http://www.qinghai.gov.cn/

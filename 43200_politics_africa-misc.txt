@@ -14,3 +14,9 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://paigc.gw/
 random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://awb.co.za/feed/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.alliance-sahel.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.eisa.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.aaimole.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.imolearmy.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://accordnational.com.ng/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://apc.com.ng/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://adc.org.ng/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://pdpnigeria.org/
