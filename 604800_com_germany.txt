@@ -1,0 +1,4 @@
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://transformationsregion-mitteldeutschland.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://technologiepark-weinberg-campus.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.strauss.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://presse.strauss.com/

@@ -106,3 +106,10 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.egovernment-wettbewerb.de
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.elster.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.personalausweisportal.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.schlichtungsstelle-bgg.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fitko.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.publikationen-bundesregierung.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.bundesgesundheitsministerium.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.pflegebevollmaechtigte.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.polizeifuerdich.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kompetenzzentrum-nk.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://bsi-lagebericht.de/

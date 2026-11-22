@@ -18,3 +18,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.gommern.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kommunale-jobcenter.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.heidewasser.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.halberstadtwerke.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.abikw.de/

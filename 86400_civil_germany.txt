@@ -11,3 +11,9 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://politicalbeauty.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://der-adenauer.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://afdnee.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fluechtlingsrat-lsa.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://auslandsgesellschaft.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.charta-der-vielfalt.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://jkt-sachsen-anhalt.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mitteldeutschland.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.fluechtlingsrat-lsa.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://landesheimatbund.de/
