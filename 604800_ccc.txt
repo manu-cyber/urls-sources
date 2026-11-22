@@ -54,3 +54,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://wauland.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://wauland.de/en/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://hackertours.hamburg.ccc.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://hackertours.hamburg.ccc.de/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://events.haecksen.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://chaosmentors.events.ccc.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://chaosmentors.events.ccc.de/en/

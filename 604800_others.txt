@@ -353,3 +353,9 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://thisweek.gnome.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://verinice.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://kommunikation.kika.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://theyesmen.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://dgfk.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://ostdeutscheswirtschaftsforum.de/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://opensourceweek.eu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://worldskills.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.knx.org/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mondafutura.org/

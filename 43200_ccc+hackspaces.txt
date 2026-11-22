@@ -39,3 +39,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;deep_extract=1;url=https://www.haecksen.o
 random=RANDOM;all=1;url=https://status.c3nav.de/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://hub.c3.wtf/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://c3.wtf/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.mainframe.io/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.kreativitaet-trifft-technik.de/

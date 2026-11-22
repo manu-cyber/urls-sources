@@ -33,3 +33,4 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://cige.gov.krd/en
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://austria.gov.krd/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://soran.gov.krd/hewal
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://www.erbil.gov.krd/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://invest.gov.krd/

@@ -7,3 +7,5 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://developer.aliyun.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://market.aliyun.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://commodore.net/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://foundation.bot/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://innovation.ebayinc.com/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://partner.aliyun.com/

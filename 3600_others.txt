@@ -31,3 +31,7 @@ random=RANDOM;all=1;url=https://status.manitu.de/
 random=RANDOM;all=1;url=https://www.ionos-status.de/
 random=RANDOM;all=1;url=https://status.aliyun.com/
 random=RANDOM;all=1;url=https://pretixstatus.com/
+random=RANDOM;all=1;url=https://status.camunda.io/
+random=RANDOM;all=1;keep_all=1;depth=1;url=random=RANDOM;all=1;url=https://www.php.net/
+random=RANDOM;all=1;url=https://status.mainframe.io/
+random=RANDOM;all=1;url=https://www.dockerstatus.com/

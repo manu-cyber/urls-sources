@@ -788,3 +788,6 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://itsperu.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://patchtheplanet.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://incidentdatabase.ai/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://sindicateuropol.ro/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://aiweekly.co/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://valkey.io/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://blog.hubspot.com/

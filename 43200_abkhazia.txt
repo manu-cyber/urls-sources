@@ -91,3 +91,9 @@ random=RANDOM;all=1;keep_all=1;depth=1;url=https://index.abkhazia.su/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://abaza.org/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://customsra.com/
 random=RANDOM;all=1;keep_all=1;depth=1;url=https://geabconflict.net/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mid.apsny.land/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mid.apsny.land/en/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mid.apsny.land/ru/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mid.apsny.land/tu/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://mid.apsny.land/ar/
+random=RANDOM;all=1;keep_all=1;depth=1;url=https://consulabkhazia.ru/
